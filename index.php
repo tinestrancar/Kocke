@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html lang="sl">
   <head>
-    <title>Kocke</title>
+    <title>Roll the dice</title>
 
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="css/style.css"/>
